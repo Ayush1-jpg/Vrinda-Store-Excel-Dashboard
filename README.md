@@ -53,6 +53,16 @@ Vrinda_Store_Sales_Dashboard.xlsx
 
 Dashboard screenshots
 
+
+
+📥 Download File
+
+Click below to download the Excel dashboard:
+
+[Download Excel File](Vrinda_Store_Sales_Dashboard.xlsx)
+
+
+
 🚀 Conclusion
 
 This project demonstrates Excel dashboarding and data analysis skills for business decision-making.
