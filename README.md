@@ -28,31 +28,24 @@ Sales trend varies across months
 
 Full Dashboard
 
-￼
 
 Sales vs Orders
 
-￼
 
 Gender Analysis
 
-￼
 
 Order Status
 
-￼
 
 Top States
 
-￼
 
 Age vs Gender
 
-￼
 
 Sales Channel
 
-￼
 
 📁 Files Included
 
